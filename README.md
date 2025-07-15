@@ -15,7 +15,7 @@
   <a href="https://huggingface.co/rohitParkhe/" target="_blank">
     <img src="https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace"/>
   </a>
-  <a href="https://linkedin.com/in/rohit-parkhe" target="_blank">
+  <a href="https://www.linkedin.com/in/rohit-parkhe-692952229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://in.pinterest.com/rohitparkhe301/_profile/" target="_blank">
